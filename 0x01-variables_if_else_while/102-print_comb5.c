@@ -10,14 +10,13 @@ int main(void)
 {
 	int c = 0;
 	int f_d;
-	int 1_d;
-	
+	int l_d;
 
 	int c2;
 	int f_d2;
-	int 1_d2;
-	while (c <= 98)
+	int l_d2;
 
+	while (c <= 98)
 	{
 		f_d = (c / 10 + '0');
 		1_d = (c % 10 + '0');
